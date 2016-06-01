@@ -33,7 +33,7 @@
 
 ### Основные команды
 
-+ `git clone https://github.com/PetrovKP/english.git` склонировать к себе репозиторий
++ `git clone <ссылка>` склонировать к себе форкнутый репозиторий
 + `git remote add upstream https://github.com/PetrovKP/english.git` добавляем связь с центральным репозиторием
 + `git pull upstream master` стянуть все изменения в глобальном
 + `git checkout -b NEW_BRANCH` создать новую ветку
