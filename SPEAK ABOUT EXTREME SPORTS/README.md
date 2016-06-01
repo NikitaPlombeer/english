@@ -6,6 +6,8 @@ Through extreme sports, people who like it, receive a sense of pleasure and achi
 
 Safety first is a rule to live by in any activity but with extreme sports, safety becomes a very prominent issue. Each extreme sport has its own set of rules and safety guidelines that should be followed to reduce the occurrence of injury or fatalities. For example, weather and equipment condition are vital factors which must be put into serious consideration before commence skydiving.
 
+(с) Кулиш С.
+
 ## ПЕРЕВОД
 
 **Необходим перевод!**
