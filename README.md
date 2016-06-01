@@ -1,8 +1,22 @@
-# Сборник сочинений по английскому
+﻿# Сборник сочинений по английскому
 
 + Добавляйте папку с названием  темы например `SPEAK ABOUT YOUR CLOSEST FRIEND`
 + Создаёте в ней **README.md** в котором прописываете либо текст либо перевод
++ Чтобы избежать недоверчивых отзывов, просьба указывать источник (учебник/сайт/собственная голова)
 + В случае любых ошибок или добавлений, отправляете pull запрос.
+
+### Список тем для реализации:
+
+1. SPEAK ABOUT YOUR CLOSEST FRIEND
+2. SPEAK ABOUT EXTREME SPORTS
+3. SPEAK ABOUT MEMORABLE EVENTS YOU HAVE EVER BEEN TO
+4. SPEAK ABOUT YOUR FAVOURITE DISH OR CUISINE
+5. YOUR PIECES OF ADVICE IN TIME-KEEPING
+6. SPEAK ABOUT YOUR BEST TRIP
+7. SPEAK ABOUT THE PLACE YOU'D LIKE TO VISIT
+8. FILM REVIEW
+9. BOOK REVIEW
+10. THE ROLE OF MASS MEDIA IN THE WORLD
 
 ### Основные команды
 
