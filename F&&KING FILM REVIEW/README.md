@@ -3,13 +3,13 @@
 I want to tell you a few words about my favourite film, which name is 'LOCK, STOCK AND TWO FU**IN SMOKING BARRELS'.
 
 I've seen it many times, and the last one was nearly a week ago on my computer. 
-This film is fullfilled with such brilliant actors as Jason Flemyng, Dexter Fletcher, Nick Moran and Jason Statham. The story was written and directed by Guy Ritchie, one of the greatest directors of action films. The type of this film is 'black comedy'.
+This film is fullfilled with such brilliant actors as Jason Flemyng, Dexter Fletcher, Nick Moran and Jason Statham. The story was written and directed by Guy Ritchie, one of the greatest director of action films. The type of this film is 'black comedy'.
 
-The main story is about four guys (Eddy, Tom, Soap and Bacon), who want some easy money and put together 100.000 pounds so Eddy can buy into one of "Hatchet" Harry Lonsdale's weekly card games. The game is rigged and the friends end up massively indebted to Harry. This is the beginning of a long story, full of firefights, murders and black humour. The most impressive component of this film for me is its scenery, which is very difficult, confusing and also very funny. By the way, the story ends on a cliffhanger.
+The main story is about four guys (Eddy, Tom, Soap and Bacon), who wants some easy money and put together 100.000 pounds so Eddy can buy into one of "Hatchet" Harry Lonsdale's weekly card games. The game was rigged and friends end up massively indebted to Harry. This is the beginning of a long story, full of firefights, murders and black humour. The most impressive component of this film for me is its scenery, which is very difficult, confusing and also very funny. By the way, the story ends on a cliffhanger.
 
-The soundtrack of film was so great, that I had lots of songs from this film in my playlist. 
+The soundtrack of the film is perfect. Moreover, my playlist includes a lot of songs from this film.
 
-In conclusion I should say that this is one of the most awesome films in the history of cinematograph, and I want to recommend this film for everyone, who hasn't seen it yet.
+In conclusion, I should say that this is one of the most awesome film in the history of cinematograph, and I want to recommend this film for everyone, who hasn't seen it yet.
 
 
 (с) Овчарук О.
