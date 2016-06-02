@@ -1,4 +1,4 @@
-# Сборник сочинений по английскому
+﻿# Сборник сочинений по английскому
 
 + Добавляйте папку с названием  темы например `SPEAK ABOUT YOUR CLOSEST FRIEND`
 + Создаёте в ней **README.md** в котором прописываете либо текст либо перевод
@@ -27,7 +27,7 @@
 5. YOUR PIECES OF ADVICE IN TIME-KEEPING
 6. SPEAK ABOUT YOUR BEST TRIP
 7. SPEAK ABOUT THE PLACE YOU'D LIKE TO VISIT
-8. FILM REVIEW
+8. ~~FILM REVIEW~~
 9. BOOK REVIEW
 10. THE ROLE OF MASS MEDIA IN THE WORLD
 
